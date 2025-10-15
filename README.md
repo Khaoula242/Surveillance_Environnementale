@@ -38,7 +38,4 @@ L’utilisateur peut également contrôler à distance une **LED**, un **buzzer*
 Le code se trouve dans le fichier `Surveillance_ESP32.ino`.  
 Il gère la communication entre les capteurs, actionneurs et l’application Blynk.
 
----
 
-## 🚀 Auteur
-Projet réalisé par **[Ton nom]**, dans le cadre d’un module IoT & Réseaux.
